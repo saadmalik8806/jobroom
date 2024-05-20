@@ -1,0 +1,168 @@
+.elementor-1961 .elementor-element.elementor-element-d1bceff>.elementor-container {
+    max-width: 1500px;
+    min-height: 50px;
+}
+
+.elementor-1961 .elementor-element.elementor-element-d1bceff>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-1961 .elementor-element.elementor-element-d1bceff:not(.elementor-motion-effects-element-type-background),
+.elementor-1961 .elementor-element.elementor-element-d1bceff>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F1F1F1;
+}
+
+.elementor-1961 .elementor-element.elementor-element-d1bceff {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1961 .elementor-element.elementor-element-d1bceff>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1961 .elementor-element.elementor-element-84e6d39 .elementor-icon-list-icon i {
+    color: var( --e-global-color-3a47cf6);
+    transition: color 0.3s;
+}
+
+.elementor-1961 .elementor-element.elementor-element-84e6d39 .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-3a47cf6);
+    transition: fill 0.3s;
+}
+
+.elementor-1961 .elementor-element.elementor-element-84e6d39 {
+    --e-icon-list-icon-size: 18px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-1961 .elementor-element.elementor-element-84e6d39 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-1961 .elementor-element.elementor-element-84e6d39 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.elementor-1961 .elementor-element.elementor-element-84e6d39 .elementor-icon-list-text {
+    color: var( --e-global-color-3a47cf6);
+    transition: color 0.3s;
+}
+
+.elementor-1961 .elementor-element.elementor-element-84e6d39>.elementor-widget-container {
+    padding: 0px 0px 0px 10px;
+}
+
+.elementor-1961 .elementor-element.elementor-element-be704a8>.elementor-container {
+    max-width: 1500px;
+    min-height: 50px;
+}
+
+.elementor-1961 .elementor-element.elementor-element-be704a8>.elementor-container>.elementor-column>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-1961 .elementor-element.elementor-element-be704a8:not(.elementor-motion-effects-element-type-background),
+.elementor-1961 .elementor-element.elementor-element-be704a8>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #DBDBDB;
+}
+
+.elementor-1961 .elementor-element.elementor-element-be704a8 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-1961 .elementor-element.elementor-element-be704a8>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-1961 .elementor-element.elementor-element-b581a54.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-1961 .elementor-element.elementor-element-b581a54.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-1961 .elementor-element.elementor-element-b581a54>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-1961 .elementor-element.elementor-element-37476db .elementor-nav-menu .elementor-item {
+    font-family: "Poppins", Sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 0px;
+}
+
+.elementor-1961 .elementor-element.elementor-element-37476db .elementor-nav-menu--main .elementor-item {
+    color: var( --e-global-color-3a47cf6);
+    fill: var( --e-global-color-3a47cf6);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.elementor-1961 .elementor-element.elementor-element-37476db .elementor-nav-menu--main .elementor-item:hover,
+.elementor-1961 .elementor-element.elementor-element-37476db .elementor-nav-menu--main .elementor-item.elementor-item-active,
+.elementor-1961 .elementor-element.elementor-element-37476db .elementor-nav-menu--main .elementor-item.highlighted,
+.elementor-1961 .elementor-element.elementor-element-37476db .elementor-nav-menu--main .elementor-item:focus {
+    color: var( --e-global-color-1ff6bf4);
+    fill: var( --e-global-color-1ff6bf4);
+}
+
+.elementor-bc-flex-widget .elementor-1961 .elementor-element.elementor-element-60bf58c.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-1961 .elementor-element.elementor-element-60bf58c.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-1961 .elementor-element.elementor-element-60bf58c>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-1961 .elementor-element.elementor-element-d1611fa {
+    text-align: right;
+    color: var( --e-global-color-3a47cf6);
+    font-family: "Poppins", Sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 14px;
+}
+
+@media(min-width:768px) {
+    .elementor-1961 .elementor-element.elementor-element-b581a54 {
+        width: 76.956%;
+    }
+    .elementor-1961 .elementor-element.elementor-element-60bf58c {
+        width: 23%;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-1961 .elementor-element.elementor-element-d1bceff>.elementor-container {
+        min-height: 45px;
+    }
+    .elementor-1961 .elementor-element.elementor-element-be704a8>.elementor-container {
+        min-height: 115px;
+    }
+    .elementor-1961 .elementor-element.elementor-element-37476db .elementor-nav-menu--main .elementor-item {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .elementor-1961 .elementor-element.elementor-element-d1611fa {
+        text-align: center;
+    }
+}
+
+/* Start custom CSS for text-editor, class: .elementor-element-d1611fa */
+
+#rem-mar p {
+    margin: 0 !important;
+}
+
+/* End custom CSS */

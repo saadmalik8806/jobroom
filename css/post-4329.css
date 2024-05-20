@@ -1,0 +1,28 @@
+.elementor-4329 .elementor-element.elementor-element-7997e3b>.elementor-container {
+    min-height: 60px;
+}
+
+.elementor-4329 .elementor-element.elementor-element-7997e3b {
+    padding: 0px 30px 0px 30px;
+}
+
+.elementor-bc-flex-widget .elementor-4329 .elementor-element.elementor-element-c830fcc.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-4329 .elementor-element.elementor-element-c830fcc.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-4329 .elementor-element.elementor-element-c830fcc>.elementor-element-populated {
+    padding: 0px 0px 0px 0px;
+}
+
+/* Start custom CSS for shortcode, class: .elementor-element-0040e23 */
+
+.side-panel-btn .side-panel-icon {
+    font-size: 20px !important;
+}
+
+/* End custom CSS */

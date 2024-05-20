@@ -1,0 +1,130 @@
+.elementor-3888 .elementor-element.elementor-element-73e53ad>.elementor-container {
+    min-height: 160px;
+}
+
+.elementor-3888 .elementor-element.elementor-element-73e53ad:not(.elementor-motion-effects-element-type-background),
+.elementor-3888 .elementor-element.elementor-element-73e53ad>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F7F7F7;
+}
+
+.elementor-3888 .elementor-element.elementor-element-73e53ad,
+.elementor-3888 .elementor-element.elementor-element-73e53ad>.elementor-background-overlay {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-3888 .elementor-element.elementor-element-73e53ad {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px 50px 0px 50px;
+}
+
+.elementor-3888 .elementor-element.elementor-element-73e53ad>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-3888 .elementor-element.elementor-element-b3c702a.elementor-column>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-3888 .elementor-element.elementor-element-c840761 {
+    text-align: justify;
+    color: var( --e-global-color-3a47cf6);
+    font-family: "Poppins", Sans-serif;
+    font-weight: 600;
+    line-height: 18px;
+}
+
+.elementor-3888 .elementor-element.elementor-element-a2f6adb .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 500;
+    fill: #131313;
+    color: #131313;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #131313;
+    border-radius: 30px 30px 30px 30px;
+    padding: 10px 30px 10px 30px;
+}
+
+.elementor-3888 .elementor-element.elementor-element-a2f6adb .elementor-button:hover,
+.elementor-3888 .elementor-element.elementor-element-a2f6adb .elementor-button:focus {
+    color: #FFFFFF;
+    background-color: var( --e-global-color-3a47cf6);
+}
+
+.elementor-3888 .elementor-element.elementor-element-a2f6adb .elementor-button:hover svg,
+.elementor-3888 .elementor-element.elementor-element-a2f6adb .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-3888 .elementor-element.elementor-element-a2f6adb>.elementor-widget-container {
+    margin: 0px 20px 0px 10px;
+}
+
+.elementor-3888 .elementor-element.elementor-element-a2f6adb {
+    width: auto;
+    max-width: auto;
+}
+
+.elementor-3888 .elementor-element.elementor-element-af59d17 .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 500;
+    fill: #131313;
+    color: #131313;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #131313;
+    border-radius: 30px 30px 30px 30px;
+    padding: 10px 30px 10px 30px;
+}
+
+.elementor-3888 .elementor-element.elementor-element-af59d17 .elementor-button:hover,
+.elementor-3888 .elementor-element.elementor-element-af59d17 .elementor-button:focus {
+    color: #FFFFFF;
+    background-color: var( --e-global-color-3a47cf6);
+}
+
+.elementor-3888 .elementor-element.elementor-element-af59d17 .elementor-button:hover svg,
+.elementor-3888 .elementor-element.elementor-element-af59d17 .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-3888 .elementor-element.elementor-element-af59d17>.elementor-widget-container {
+    margin: 0px 20px 0px 10px;
+}
+
+.elementor-3888 .elementor-element.elementor-element-af59d17 {
+    width: auto;
+    max-width: auto;
+}
+
+#elementor-popup-modal-3888 .dialog-message {
+    width: 400px;
+    height: auto;
+}
+
+#elementor-popup-modal-3888 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+#elementor-popup-modal-3888 .dialog-close-button {
+    display: flex;
+}
+
+#elementor-popup-modal-3888 .dialog-widget-content {
+    animation-duration: 0.3s;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+#elementor-popup-modal-3888 .dialog-close-button i {
+    color: #000000;
+}
+
+#elementor-popup-modal-3888 .dialog-close-button svg {
+    fill: #000000;
+}

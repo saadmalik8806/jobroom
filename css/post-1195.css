@@ -1,0 +1,136 @@
+.elementor-1195 .elementor-element.elementor-element-47407f66>.elementor-container {
+    min-height: 540px;
+}
+
+.elementor-1195 .elementor-element.elementor-element-47407f66:not(.elementor-motion-effects-element-type-background),
+.elementor-1195 .elementor-element.elementor-element-47407f66>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-1195 .elementor-element.elementor-element-47407f66,
+.elementor-1195 .elementor-element.elementor-element-47407f66>.elementor-background-overlay {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-1195 .elementor-element.elementor-element-47407f66 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px 50px 0px 50px;
+}
+
+.elementor-1195 .elementor-element.elementor-element-47407f66>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-1195 .elementor-element.elementor-element-673c814a>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 0px;
+}
+
+.elementor-1195 .elementor-element.elementor-element-127b7975 {
+    text-align: justify;
+    color: #131313;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 600;
+    line-height: 18px;
+}
+
+.elementor-1195 .elementor-element.elementor-element-127b7975>.elementor-widget-container {
+    margin: 0px 0px -10px 0px;
+    padding: 0px 10px 0px 0px;
+}
+
+.elementor-1195 .elementor-element.elementor-element-fbf2cf8 {
+    padding: 0px 25px 0px 0px;
+}
+
+.elementor-1195 .elementor-element.elementor-element-3302324>.elementor-element-populated {
+    padding: 15px 0px 0px 0px;
+}
+
+.elementor-1195 .elementor-element.elementor-element-9abe1c {
+    text-align: justify;
+    color: var( --e-global-color-3a47cf6);
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.elementor-1195 .elementor-element.elementor-element-1420203 {
+    text-align: justify;
+    color: var( --e-global-color-3a47cf6);
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+    line-height: 18px;
+}
+
+.elementor-1195 .elementor-element.elementor-element-45833a3e .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 500;
+    fill: var( --e-global-color-3a47cf6);
+    color: var( --e-global-color-3a47cf6);
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: var( --e-global-color-3a47cf6);
+    border-radius: 30px 30px 30px 30px;
+    padding: 10px 30px 10px 30px;
+}
+
+.elementor-1195 .elementor-element.elementor-element-45833a3e .elementor-button:hover,
+.elementor-1195 .elementor-element.elementor-element-45833a3e .elementor-button:focus {
+    color: #FFFFFF;
+    background-color: var( --e-global-color-3a47cf6);
+}
+
+.elementor-1195 .elementor-element.elementor-element-45833a3e .elementor-button:hover svg,
+.elementor-1195 .elementor-element.elementor-element-45833a3e .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-1195 .elementor-element.elementor-element-45833a3e>.elementor-widget-container {
+    margin: 10px 0px 0px 0px;
+}
+
+#elementor-popup-modal-1195 .dialog-message {
+    width: 1000px;
+    height: 560px;
+    align-items: center;
+}
+
+#elementor-popup-modal-1195 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: #414141CC;
+}
+
+#elementor-popup-modal-1195 .dialog-close-button {
+    display: flex;
+}
+
+#elementor-popup-modal-1195 .dialog-widget-content {
+    animation-duration: 1.2s;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+#elementor-popup-modal-1195 .dialog-close-button i {
+    color: var( --e-global-color-3a47cf6);
+}
+
+#elementor-popup-modal-1195 .dialog-close-button svg {
+    fill: var( --e-global-color-3a47cf6);
+}
+
+@media(max-width:767px) {
+    .elementor-1195 .elementor-element.elementor-element-47407f66>.elementor-container {
+        min-height: 580px;
+    }
+    .elementor-1195 .elementor-element.elementor-element-47407f66 {
+        margin-top: 20px;
+        margin-bottom: 0px;
+        padding: 50px 0px 0px 20px;
+    }
+    #elementor-popup-modal-1195 .dialog-message {
+        height: 600px;
+    }
+}

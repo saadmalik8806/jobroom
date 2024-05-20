@@ -1,0 +1,146 @@
+.elementor-5575 .elementor-element.elementor-element-1382e47>.elementor-container {
+    min-height: 160px;
+}
+
+.elementor-5575 .elementor-element.elementor-element-1382e47:not(.elementor-motion-effects-element-type-background),
+.elementor-5575 .elementor-element.elementor-element-1382e47>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F7F7F7;
+}
+
+.elementor-5575 .elementor-element.elementor-element-1382e47,
+.elementor-5575 .elementor-element.elementor-element-1382e47>.elementor-background-overlay {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-5575 .elementor-element.elementor-element-1382e47 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px 30px 20px 30px;
+}
+
+.elementor-5575 .elementor-element.elementor-element-1382e47>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-5575 .elementor-element.elementor-element-2063b89.elementor-column>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-5575 .elementor-element.elementor-element-2063b89>.elementor-element-populated {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-5575 .elementor-element.elementor-element-08feb02 img {
+    width: 10%;
+}
+
+.elementor-5575 .elementor-element.elementor-element-516bdea {
+    text-align: justify;
+    color: var( --e-global-color-3a47cf6);
+    font-family: "Poppins", Sans-serif;
+    font-weight: 600;
+    line-height: 18px;
+}
+
+.elementor-5575 .elementor-element.elementor-element-516bdea>.elementor-widget-container {
+    margin: 0px 0px -20px 0px;
+}
+
+.elementor-5575 .elementor-element.elementor-element-de3256c {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-5575 .elementor-element.elementor-element-3dd587f .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 500;
+    fill: #131313;
+    color: #131313;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #131313;
+    border-radius: 5px 5px 5px 5px;
+    padding: 10px 30px 10px 30px;
+}
+
+.elementor-5575 .elementor-element.elementor-element-3dd587f .elementor-button:hover,
+.elementor-5575 .elementor-element.elementor-element-3dd587f .elementor-button:focus {
+    color: #FFFFFF;
+    background-color: #131313;
+}
+
+.elementor-5575 .elementor-element.elementor-element-3dd587f .elementor-button:hover svg,
+.elementor-5575 .elementor-element.elementor-element-3dd587f .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-5575 .elementor-element.elementor-element-150a004 .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 500;
+    fill: #131313;
+    color: #131313;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #131313;
+    border-radius: 5px 5px 5px 5px;
+    padding: 10px 30px 10px 30px;
+}
+
+.elementor-5575 .elementor-element.elementor-element-150a004 .elementor-button:hover,
+.elementor-5575 .elementor-element.elementor-element-150a004 .elementor-button:focus {
+    color: #FFFFFF;
+    background-color: #131313;
+}
+
+.elementor-5575 .elementor-element.elementor-element-150a004 .elementor-button:hover svg,
+.elementor-5575 .elementor-element.elementor-element-150a004 .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+#elementor-popup-modal-5575 .dialog-message {
+    width: 400px;
+    height: auto;
+}
+
+#elementor-popup-modal-5575 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+#elementor-popup-modal-5575 .dialog-close-button {
+    display: flex;
+    top: 3.5%;
+}
+
+#elementor-popup-modal-5575 .dialog-widget-content {
+    animation-duration: 0.3s;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+body:not(.rtl) #elementor-popup-modal-5575 .dialog-close-button {
+    right: 2%;
+}
+
+body.rtl #elementor-popup-modal-5575 .dialog-close-button {
+    left: 2%;
+}
+
+#elementor-popup-modal-5575 .dialog-close-button i {
+    color: #000000;
+}
+
+#elementor-popup-modal-5575 .dialog-close-button svg {
+    fill: #000000;
+}
+
+@media(max-width:767px) {
+    .elementor-5575 .elementor-element.elementor-element-e4c42dd {
+        width: 50%;
+    }
+    .elementor-5575 .elementor-element.elementor-element-887ff9a {
+        width: 50%;
+    }
+}

@@ -1,0 +1,91 @@
+.elementor-532 .elementor-element.elementor-element-339663d,
+.elementor-532 .elementor-element.elementor-element-339663d>.elementor-background-overlay {
+    border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-532 .elementor-element.elementor-element-339663d {
+    padding: 30px 10px 30px 10px;
+}
+
+.elementor-532 .elementor-element.elementor-element-e2ddb47 .elementor-icon-box-wrapper {
+    text-align: center;
+}
+
+.elementor-532 .elementor-element.elementor-element-e2ddb47.elementor-view-stacked .elementor-icon {
+    background-color: #FFFFFF;
+}
+
+.elementor-532 .elementor-element.elementor-element-e2ddb47.elementor-view-framed .elementor-icon,
+.elementor-532 .elementor-element.elementor-element-e2ddb47.elementor-view-default .elementor-icon {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.elementor-532 .elementor-element.elementor-element-e2ddb47 {
+    --icon-box-icon-margin: 15px;
+}
+
+.elementor-532 .elementor-element.elementor-element-e2ddb47 .elementor-icon-box-title {
+    margin-bottom: 0px;
+    color: #FFFFFF;
+}
+
+.elementor-532 .elementor-element.elementor-element-e2ddb47 .elementor-icon-box-title,
+.elementor-532 .elementor-element.elementor-element-e2ddb47 .elementor-icon-box-title a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.elementor-532 .elementor-element.elementor-element-f115d2f .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 500;
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #61CE7000;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #FFFFFF;
+    border-radius: 5px 5px 5px 5px;
+    padding: 10px 30px 10px 30px;
+}
+
+.elementor-532 .elementor-element.elementor-element-f115d2f .elementor-button:hover,
+.elementor-532 .elementor-element.elementor-element-f115d2f .elementor-button:focus {
+    color: #FFFFFF;
+    background-color: #26227400;
+}
+
+.elementor-532 .elementor-element.elementor-element-f115d2f .elementor-button:hover svg,
+.elementor-532 .elementor-element.elementor-element-f115d2f .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+#elementor-popup-modal-532 .dialog-message {
+    width: 680px;
+    height: auto;
+}
+
+#elementor-popup-modal-532 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+#elementor-popup-modal-532 .dialog-widget-content {
+    animation-duration: 0.2s;
+    background-color: var( --e-global-color-3a47cf6);
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+/* Start custom CSS */
+
+#close-popup {
+    cursor: pointer;
+}
+
+/* End custom CSS */

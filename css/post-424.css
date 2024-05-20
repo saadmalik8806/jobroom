@@ -1,0 +1,137 @@
+.elementor-424 .elementor-element.elementor-element-6701666>.elementor-container {
+    min-height: 450px;
+}
+
+.elementor-424 .elementor-element.elementor-element-6701666:not(.elementor-motion-effects-element-type-background),
+.elementor-424 .elementor-element.elementor-element-6701666>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFFFF;
+}
+
+.elementor-424 .elementor-element.elementor-element-6701666,
+.elementor-424 .elementor-element.elementor-element-6701666>.elementor-background-overlay {
+    border-radius: 15px 15px 15px 15px;
+}
+
+.elementor-424 .elementor-element.elementor-element-6701666 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 20px 50px 0px 50px;
+}
+
+.elementor-424 .elementor-element.elementor-element-6701666>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-424 .elementor-element.elementor-element-c94ee4a>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {
+    margin-bottom: 10px;
+}
+
+.elementor-424 .elementor-element.elementor-element-806bd1a {
+    text-align: justify;
+    color: var( --e-global-color-3a47cf6);
+    font-family: "Poppins", Sans-serif;
+    font-weight: 600;
+    line-height: 18px;
+}
+
+.elementor-424 .elementor-element.elementor-element-1777d79 .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 500;
+    fill: var( --e-global-color-3a47cf6);
+    color: var( --e-global-color-3a47cf6);
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: var( --e-global-color-3a47cf6);
+    border-radius: 30px 30px 30px 30px;
+    padding: 10px 30px 10px 30px;
+}
+
+.elementor-424 .elementor-element.elementor-element-1777d79 .elementor-button:hover,
+.elementor-424 .elementor-element.elementor-element-1777d79 .elementor-button:focus {
+    color: #FFFFFF;
+    background-color: var( --e-global-color-3a47cf6);
+    border-color: var( --e-global-color-3a47cf6);
+}
+
+.elementor-424 .elementor-element.elementor-element-1777d79 .elementor-button:hover svg,
+.elementor-424 .elementor-element.elementor-element-1777d79 .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+#elementor-popup-modal-424 .dialog-message {
+    width: 1000px;
+    height: 470px;
+    align-items: center;
+}
+
+#elementor-popup-modal-424 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: #414141CC;
+}
+
+#elementor-popup-modal-424 .dialog-close-button {
+    display: flex;
+}
+
+#elementor-popup-modal-424 .dialog-widget-content {
+    animation-duration: 1.2s;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+#elementor-popup-modal-424 .dialog-close-button i {
+    color: var( --e-global-color-3a47cf6);
+}
+
+#elementor-popup-modal-424 .dialog-close-button svg {
+    fill: var( --e-global-color-3a47cf6);
+}
+
+@media(max-width:767px) {
+    .elementor-424 .elementor-element.elementor-element-6701666>.elementor-container {
+        min-height: 580px;
+    }
+    .elementor-424 .elementor-element.elementor-element-6701666 {
+        margin-top: 20px;
+        margin-bottom: 0px;
+        padding: 20px 25px 0px 20px;
+    }
+    .elementor-424 .elementor-element.elementor-element-806bd1a {
+        text-align: justify;
+        font-size: 14px;
+    }
+    #elementor-popup-modal-424 .dialog-message {
+        height: 600px;
+    }
+}
+
+/* Start custom CSS */
+
+.elementor-424 .elementor-element.elementor-element-f108221 .elementor-field-group .elementor-field {
+    align-items: center;
+    background-color: #101010;
+    padding-left: 15px;
+    border-radius: 30px;
+}
+
+.elementor-424 .elementor-element.elementor-element-f108221 .elementor-field-group .elementor-field>select {
+    border-radius: 30px;
+}
+
+#elementor-popup-modal-424>div>div.dialog-message.dialog-lightbox-message>div>div>section>div>div>div>div.elementor-element.elementor-element-f108221.elementor-button-align-center.elementor-widget.elementor-widget-form>div>form>div>div.elementor-field-type-tel.elementor-field-group.elementor-column.elementor-field-group-number.elementor-col-50.elementor-field-required {
+    align-items: center;
+    background-color: #101010;
+    padding-left: 15px;
+    border-radius: 30px;
+    width: 47%;
+    margin-left: 10px;
+}
+
+#elementor-popup-modal-424>div>div.dialog-message.dialog-lightbox-message>div>div>section>div>div>div>div.elementor-element.elementor-element-f108221.elementor-button-align-center.elementor-widget.elementor-widget-form>div>form>div>div.elementor-field-type-tel.elementor-field-group.elementor-column.elementor-field-group-number.elementor-col-50.elementor-field-required>input {
+    width: 75% !important;
+    padding: 6px 16px 6px 5px;
+}
+
+/* End custom CSS */
